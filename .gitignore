@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+expenses.db
+
+.env
+
+.vscode/
+.idea/
